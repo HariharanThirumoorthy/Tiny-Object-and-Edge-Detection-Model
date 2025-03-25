@@ -57,9 +57,4 @@ This project is licensed under the MIT License – feel free to use, share, and 
 🙌 Acknowledgements
 YOLO by Alexey Bochkovskiy
 
-OpenCV and TensorFlow community
 
-vbnet
-Copy
-
-Let me know if you'd like the same for **Smart Study Organizer** or **ABSA** with different structure.
